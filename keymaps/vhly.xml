@@ -1,11 +1,5 @@
-<keymap version="1" name="vhly" parent="Mac OS X 10.5+">
-  <action id="EditorDeleteLine">
-    <keyboard-shortcut first-keystroke="meta y" />
-  </action>
-  <action id="QuickImplementations">
-    <keyboard-shortcut first-keystroke="alt space" />
-  </action>
+<keymap version="1" name="vhly" parent="Mac OS X">
   <action id="SmartTypeCompletion">
-    <keyboard-shortcut first-keystroke="ctrl alt j" />
+    <keyboard-shortcut first-keystroke="ctrl meta j" />
   </action>
 </keymap>
