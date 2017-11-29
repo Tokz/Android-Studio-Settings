@@ -4,6 +4,7 @@
       <mapping ext="dex" type="ARCHIVE" />
       <mapping ext="aar" type="ARCHIVE" />
       <mapping pattern="xposed_init" type="PLAIN_TEXT" />
+      <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="pkg_data_info_v1_0_0_config" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
