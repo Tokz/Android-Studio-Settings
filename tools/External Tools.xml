@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="javah" description="jni header generate" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="javah" />
+      <option name="PARAMETERS" value="-d $ModuleFileDir$/src/main/jni -jni -force -cp &quot;$Classpath$&quot; $FileClass$" />
+      <option name="WORKING_DIRECTORY" value="$ModuleFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
