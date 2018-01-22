@@ -13,6 +13,7 @@
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="cid" type="PLAIN_TEXT" />
       <mapping ext="gitignore" type="PLAIN_TEXT" />
+      <mapping ext="o" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <removed_mapping ext="so" type="UNKNOWN" />
     </extensionMap>
