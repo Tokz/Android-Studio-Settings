@@ -106,9 +106,15 @@
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
+  <codeStyleSettings language="Groovy">
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+  </codeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="LINE_COMMENT_ADD_SPACE" value="true" />
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+  </codeStyleSettings>
+  <codeStyleSettings language="ObjectiveC">
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
   </codeStyleSettings>
   <codeStyleSettings language="XML">
@@ -198,7 +204,6 @@
                 <XML_NAMESPACE>http://schemas.android.com/apk/res/android</XML_NAMESPACE>
               </AND>
             </match>
-            <order>ANDROID_ATTRIBUTE_ORDER</order>
           </rule>
         </section>
         <section>
@@ -214,5 +219,8 @@
         </section>
       </rules>
     </arrangement>
+  </codeStyleSettings>
+  <codeStyleSettings language="kotlin">
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
   </codeStyleSettings>
 </code_scheme>
