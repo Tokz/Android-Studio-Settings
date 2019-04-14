@@ -4,6 +4,7 @@
       <mapping ext="aar" type="ARCHIVE" />
       <mapping pattern="xposed_init" type="PLAIN_TEXT" />
       <mapping pattern="SourceConfig" type="PLAIN_TEXT" />
+      <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="channel" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
