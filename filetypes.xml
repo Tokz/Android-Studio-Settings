@@ -18,6 +18,7 @@
       <mapping pattern="gradlew" type="PLAIN_TEXT" />
       <mapping pattern="flutterw" type="PLAIN_TEXT" />
       <mapping pattern="q" type="PLAIN_TEXT" />
+      <mapping pattern="hpm" type="PLAIN_TEXT" />
       <mapping pattern="res_timestamp-1-1552528691642" type="PLAIN_TEXT" />
       <mapping pattern=".dartignore" type="PLAIN_TEXT" />
       <mapping pattern="droid" type="PLAIN_TEXT" />
