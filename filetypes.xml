@@ -18,11 +18,11 @@
       <mapping pattern="WORKBENCH@COMMENT_TEST" type="PLAIN_TEXT" />
       <mapping pattern="dart" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
-      <mapping ext="tt" type="PLAIN_TEXT" />
-      <mapping ext="grovvy" type="PLAIN_TEXT" />
-      <mapping ext="version" type="PLAIN_TEXT" />
-      <mapping ext="dubai" type="PLAIN_TEXT" />
       <mapping ext="afwealthhomepage" type="PLAIN_TEXT" />
+      <mapping ext="tt" type="PLAIN_TEXT" />
+      <mapping ext="version" type="PLAIN_TEXT" />
+      <mapping ext="grovvy" type="PLAIN_TEXT" />
+      <mapping ext="dubai" type="PLAIN_TEXT" />
       <mapping pattern="activity_main" type="XML" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
