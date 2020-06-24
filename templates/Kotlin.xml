@@ -1,0 +1,7 @@
+<templateSet group="Kotlin">
+  <template name="logd" value="if(BuildConfig.DEBUG) {&#10;    Log.d(&quot;&quot;,&quot;&quot;)&#10;}" description="Log.d for Kotlin" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
