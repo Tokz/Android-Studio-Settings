@@ -4,6 +4,7 @@
       <mapping ext="webp" type="Image" />
       <mapping pattern="version" type="PLAIN_TEXT" />
       <mapping pattern="q" type="PLAIN_TEXT" />
+      <mapping pattern="foo" type="PLAIN_TEXT" />
       <mapping pattern="gradlew" type="PLAIN_TEXT" />
       <mapping pattern="WORKBENCH@COMMENT_TEST" type="PLAIN_TEXT" />
       <mapping pattern="stdout" type="PLAIN_TEXT" />
