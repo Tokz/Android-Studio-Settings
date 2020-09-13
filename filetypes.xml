@@ -4,6 +4,7 @@
       <mapping ext="7z" type="ARCHIVE" />
       <mapping ext="in" type="C++" />
       <mapping ext="webp" type="Image" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="xposed_init" type="PLAIN_TEXT" />
       <mapping pattern="SourceConfig" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
