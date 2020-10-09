@@ -8,10 +8,10 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="xposed_init" type="PLAIN_TEXT" />
       <mapping pattern="SourceConfig" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
-      <mapping pattern="apkwash" type="PLAIN_TEXT" />
       <mapping pattern="channel" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="apkwash" type="PLAIN_TEXT" />
       <mapping ext="svga" type="PLAIN_TEXT" />
       <mapping ext="acv" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
