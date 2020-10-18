@@ -15,6 +15,7 @@
       <mapping ext="svga" type="PLAIN_TEXT" />
       <mapping ext="acv" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping ext="symbols" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="hex" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
