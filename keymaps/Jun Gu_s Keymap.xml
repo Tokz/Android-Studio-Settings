@@ -70,6 +70,7 @@
     <keyboard-shortcut first-keystroke="alt 2" />
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
+  <action id="ActivateTODOToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt 0" />
     <keyboard-shortcut first-keystroke="meta 0" />
