@@ -24,6 +24,7 @@
       <mapping pattern="flutterw" type="PLAIN_TEXT" />
       <mapping pattern=".dartignore" type="PLAIN_TEXT" />
       <mapping ext="afwealthhomepage" type="PLAIN_TEXT" />
+      <mapping ext="arsc" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping ext="tt" type="PLAIN_TEXT" />
       <mapping ext="version" type="PLAIN_TEXT" />
