@@ -28,6 +28,7 @@
       <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping ext="tt" type="PLAIN_TEXT" />
       <mapping ext="version" type="PLAIN_TEXT" />
+      <mapping ext="sum" type="PLAIN_TEXT" />
       <mapping ext="grovvy" type="PLAIN_TEXT" />
       <mapping ext="dubai" type="PLAIN_TEXT" />
       <mapping pattern="activity_main" type="XML" />
