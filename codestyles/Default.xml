@@ -34,6 +34,7 @@
     </option>
     <option name="MANIFEST_SETTINGS">
       <value>
+        <option name="GROUP_TAGS_WITH_SAME_NAME" value="false" />
         <option name="INSERT_LINE_BREAK_AFTER_LAST_ATTRIBUTE" value="true" />
       </value>
     </option>
