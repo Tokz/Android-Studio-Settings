@@ -44,6 +44,10 @@
       </value>
     </option>
   </AndroidXmlCodeStyleSettings>
+  <JavaCodeStyleSettings>
+    <option name="FIELD_NAME_PREFIX" value="m" />
+    <option name="STATIC_FIELD_NAME_PREFIX" value="s" />
+  </JavaCodeStyleSettings>
   <JetCodeStyleSettings>
     <option name="PACKAGES_TO_USE_STAR_IMPORTS">
       <value>
@@ -186,5 +190,10 @@
         </section>
       </rules>
     </arrangement>
+  </codeStyleSettings>
+  <codeStyleSettings language="kotlin">
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="LINE_COMMENT_ADD_SPACE" value="true" />
   </codeStyleSettings>
 </code_scheme>
