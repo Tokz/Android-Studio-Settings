@@ -1,4 +1,3 @@
 /**
- * @author ${USER}
- * @since ${DATE} ${TIME}
+ * Created by ${USER} on ${DATE}.
  */
