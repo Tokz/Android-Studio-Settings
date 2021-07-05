@@ -5,7 +5,7 @@
 #parse("File Header.java")
 
 #if (${VISIBILITY} == "PUBLIC")public #end class ${NAME} #if (${SUPERCLASS} != "")extends ${SUPERCLASS} #end #if (${INTERFACES} != "")implements ${INTERFACES} #end {
-    private static final ${NAME} outInstance = new ${NAME}();
+    private static final ${NAME} ourInstance = new ${NAME}();
 
     #if (${VISIBILITY} == "PUBLIC")public #end static ${NAME} getInstance() {
         return ourInstance;
