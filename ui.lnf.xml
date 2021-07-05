@@ -1,0 +1,13 @@
+<application>
+  <component name="DependencyUISettings">
+    <option name="SCOPE_TYPE" value="file" />
+  </component>
+  <component name="UISettings">
+    <option name="ENABLE_ALPHA_MODE" value="true" />
+    <option name="HIDE_TOOL_STRIPES" value="true" />
+    <option name="IDE_AA_TYPE" value="Greyscale" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="18" />
+    <option name="PRESENTATION_MODE_FONT_SIZE" value="20" />
+    <option name="WIDESCREEN_SUPPORT" value="true" />
+  </component>
+</application>

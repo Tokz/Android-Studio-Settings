@@ -1,18 +1,46 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.o;*.obj;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping ext="webp" type="Image" />
-      <mapping ext="config" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="TODO" type="PLAIN_TEXT" />
-      <mapping pattern="dsfsa" type="PLAIN_TEXT" />
-      <mapping pattern="policy" type="PLAIN_TEXT" />
-      <mapping ext="tap" type="PLAIN_TEXT" />
-      <mapping ext="shp" type="PLAIN_TEXT" />
-      <mapping ext="store" type="PLAIN_TEXT" />
-      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern=".dartignore" type="PLAIN_TEXT" />
+      <mapping pattern="devtools" type="PLAIN_TEXT" />
+      <mapping pattern="droid" type="PLAIN_TEXT" />
+      <mapping pattern="res_timestamp-1-1552528691642" type="PLAIN_TEXT" />
+      <mapping pattern="version" type="PLAIN_TEXT" />
+      <mapping pattern="affw" type="PLAIN_TEXT" />
+      <mapping pattern="WORKBENCH@COMMENT_TEST" type="PLAIN_TEXT" />
+      <mapping pattern="argument_icon_parser" type="PLAIN_TEXT" />
+      <mapping pattern="foo" type="PLAIN_TEXT" />
+      <mapping pattern=".empty" type="PLAIN_TEXT" />
+      <mapping pattern="dart" type="PLAIN_TEXT" />
+      <mapping pattern="xflutter" type="PLAIN_TEXT" />
+      <mapping pattern=".metadata" type="PLAIN_TEXT" />
+      <mapping pattern="WORKBENCH@YOULIAO_TEST" type="PLAIN_TEXT" />
+      <mapping pattern="q" type="PLAIN_TEXT" />
+      <mapping pattern="gradlew" type="PLAIN_TEXT" />
+      <mapping pattern="flutterw" type="PLAIN_TEXT" />
+      <mapping pattern="hpm" type="PLAIN_TEXT" />
+      <mapping pattern="stdout" type="PLAIN_TEXT" />
+      <mapping ext="dubai" type="PLAIN_TEXT" />
+      <mapping ext="grovvy" type="PLAIN_TEXT" />
+      <mapping ext="sum" type="PLAIN_TEXT" />
+      <mapping ext="afwealthhomepage" type="PLAIN_TEXT" />
+      <mapping ext="tt" type="PLAIN_TEXT" />
+      <mapping ext="arsc" type="PLAIN_TEXT" />
+      <mapping ext="tmpl" type="PLAIN_TEXT" />
+      <mapping ext="version" type="PLAIN_TEXT" />
+      <mapping pattern="activity_main" type="XML" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="vw" type="DBN-SQL" />
     </extensionMap>
   </component>
 </application>
