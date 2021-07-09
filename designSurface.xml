@@ -4,6 +4,9 @@
       <map>
         <entry key="../../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_tradie.xml" value="0.21614583333333334" />
+        <entry key="app/src/main/res/layout/dialog_unverified_customer.xml" value="0.21614583333333334" />
+        <entry key="app/src/main/res/layout/fragment_business_details.xml" value="0.21614583333333334" />
+        <entry key="app/src/main/res/layout/fragment_customer_details.xml" value="0.21614583333333334" />
         <entry key="app/src/main/res/layout/item_tradie_filter.xml" value="0.5" />
       </map>
     </option>
