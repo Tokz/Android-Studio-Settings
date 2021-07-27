@@ -14,7 +14,7 @@
         <entry key="app/src/main/res/layout/item_comment.xml" value="0.1" />
         <entry key="app/src/main/res/layout/item_notification_accept_follow.xml" value="0.22552083333333334" />
         <entry key="app/src/main/res/layout/item_notification_new_comment.xml" value="0.625" />
-        <entry key="app/src/main/res/layout/item_notification_new_follow.xml" value="0.22552083333333334" />
+        <entry key="app/src/main/res/layout/item_notification_new_follow.xml" value="0.28532608695652173" />
         <entry key="app/src/main/res/layout/item_notification_new_reply_to_comment.xml" value="0.1" />
         <entry key="app/src/main/res/layout/item_notification_reaction.xml" value="0.55" />
         <entry key="app/src/main/res/layout/item_tradie_filter.xml" value="0.5" />
