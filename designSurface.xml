@@ -4,6 +4,9 @@
       <map>
         <entry key="../../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="../../../../layout/custom_preview.xml" value="0.42291666666666666" />
+        <entry key="app/src/main/res/drawable-hdpi/jpush_richpush_btn_selector.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable-hdpi/jpush_richpush_progressbar.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_account_list.xml" value="0.1094224924012158" />
         <entry key="app/src/main/res/layout/activity_comments.xml" value="0.26132246376811596" />
         <entry key="app/src/main/res/layout/activity_post_hilo.xml" value="0.22552083333333334" />
         <entry key="app/src/main/res/layout/activity_tradie.xml" value="0.21614583333333334" />
@@ -19,6 +22,9 @@
         <entry key="app/src/main/res/layout/item_notification_new_reply_to_comment.xml" value="0.1" />
         <entry key="app/src/main/res/layout/item_notification_reaction.xml" value="0.55" />
         <entry key="app/src/main/res/layout/item_tradie_filter.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/jpush_popwin_layout.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/jpush_webview_layout.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/push_notification.xml" value="0.1094224924012158" />
       </map>
     </option>
   </component>
