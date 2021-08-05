@@ -3,6 +3,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="../../../../../layout/custom_preview.xml" value="0.42291666666666666" />
         <entry key="../../../../layout/custom_preview.xml" value="0.42291666666666666" />
         <entry key="app/src/main/res/drawable-hdpi/jpush_richpush_btn_selector.xml" value="0.1" />
         <entry key="app/src/main/res/drawable-hdpi/jpush_richpush_progressbar.xml" value="0.1" />
@@ -27,6 +28,9 @@
         <entry key="app/src/main/res/layout/jpush_webview_layout.xml" value="0.1" />
         <entry key="app/src/main/res/layout/marketplace_bottom_sheet_distance_filter.xml" value="0.3338541666666667" />
         <entry key="app/src/main/res/layout/marketplace_bottom_sheet_location_filter.xml" value="0.3338541666666667" />
+        <entry key="app/src/main/res/layout/marketplace_bottom_sheet_price_filter.xml" value="0.3917572463768116" />
+        <entry key="app/src/main/res/layout/marketplace_bottom_sheet_search_filters.xml" value="0.3917572463768116" />
+        <entry key="app/src/main/res/layout/marketplace_bottom_sheet_sort_by_filter.xml" value="0.3917572463768116" />
         <entry key="app/src/main/res/layout/marketplace_fragment_marketplace_checkout.xml" value="0.3917572463768116" />
         <entry key="app/src/main/res/layout/marketplace_fragment_marketplace_create_item.xml" value="0.3917572463768116" />
         <entry key="app/src/main/res/layout/marketplace_fragment_marketplace_feed.xml" value="0.3917572463768116" />
@@ -42,6 +46,7 @@
         <entry key="app/src/main/res/layout/marketplace_item_marketplace_feed_mini.xml" value="0.3338541666666667" />
         <entry key="app/src/main/res/layout/marketplace_item_photo_attachment.xml" value="0.3338541666666667" />
         <entry key="app/src/main/res/layout/marketplace_item_recent_search.xml" value="0.3338541666666667" />
+        <entry key="app/src/main/res/layout/notification_fragment.xml" value="0.3917572463768116" />
         <entry key="app/src/main/res/layout/notification_item.xml" value="0.3338541666666667" />
         <entry key="app/src/main/res/layout/notification_item_header.xml" value="0.3338541666666667" />
         <entry key="app/src/main/res/layout/push_notification.xml" value="0.1094224924012158" />
