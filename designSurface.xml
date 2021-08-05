@@ -27,6 +27,11 @@
         <entry key="app/src/main/res/layout/jpush_webview_layout.xml" value="0.1" />
         <entry key="app/src/main/res/layout/marketplace_bottom_sheet_distance_filter.xml" value="0.3338541666666667" />
         <entry key="app/src/main/res/layout/marketplace_bottom_sheet_location_filter.xml" value="0.3338541666666667" />
+        <entry key="app/src/main/res/layout/marketplace_fragment_marketplace_seller_profile.xml" value="0.3338541666666667" />
+        <entry key="app/src/main/res/layout/marketplace_include_loading_product_details.xml" value="0.3338541666666667" />
+        <entry key="app/src/main/res/layout/marketplace_include_seller_profile_loading.xml" value="0.3338541666666667" />
+        <entry key="app/src/main/res/layout/marketplace_item_add_photo_btn.xml" value="0.3338541666666667" />
+        <entry key="app/src/main/res/layout/marketplace_item_marketplace_category.xml" value="0.3338541666666667" />
         <entry key="app/src/main/res/layout/marketplace_item_marketplace_checkout.xml" value="0.3338541666666667" />
         <entry key="app/src/main/res/layout/marketplace_item_marketplace_feed.xml" value="0.3338541666666667" />
         <entry key="app/src/main/res/layout/marketplace_item_marketplace_feed_mini.xml" value="0.3338541666666667" />
