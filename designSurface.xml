@@ -26,6 +26,7 @@
         <entry key="app/src/main/res/layout/jpush_popwin_layout.xml" value="0.1" />
         <entry key="app/src/main/res/layout/jpush_webview_layout.xml" value="0.1" />
         <entry key="app/src/main/res/layout/push_notification.xml" value="0.1094224924012158" />
+        <entry key="payments/src/main/res/layout/activity_payments.xml" value="0.3338541666666667" />
       </map>
     </option>
   </component>
