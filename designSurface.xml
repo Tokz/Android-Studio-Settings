@@ -13,7 +13,9 @@
         <entry key="app/src/main/res/layout/activity_tradie.xml" value="0.21614583333333334" />
         <entry key="app/src/main/res/layout/dialog_unverified_customer.xml" value="0.21614583333333334" />
         <entry key="app/src/main/res/layout/fragment_business_details.xml" value="0.21614583333333334" />
+        <entry key="app/src/main/res/layout/fragment_chat.xml" value="0.39427083333333335" />
         <entry key="app/src/main/res/layout/fragment_customer_details.xml" value="0.21614583333333334" />
+        <entry key="app/src/main/res/layout/fragment_messages.xml" value="0.39427083333333335" />
         <entry key="app/src/main/res/layout/fragment_post_highlight.xml" value="0.22552083333333334" />
         <entry key="app/src/main/res/layout/fragment_talk_create_opinion.xml" value="0.296195652173913" />
         <entry key="app/src/main/res/layout/fragment_walkthrough.xml" value="0.25769927536231885" />
