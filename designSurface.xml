@@ -79,6 +79,7 @@
         <entry key="app/src/main/res/layout/socialmedia_include_feeds_loading.xml" value="0.39266304347826086" />
         <entry key="app/src/main/res/layout/socialmedia_item_comment.xml" value="0.39266304347826086" />
         <entry key="app/src/main/res/layout/socialmedia_item_feed.xml" value="0.39266304347826086" />
+        <entry key="common/src/main/res/drawable/ic_imageic_image.xml" value="0.23854166666666668" />
         <entry key="common/src/main/res/drawable/password_toggle.xml" value="0.23854166666666668" />
         <entry key="common/src/main/res/drawable/window_background.xml" value="0.23854166666666668" />
         <entry key="common/src/main/res/drawable/window_background_splash_screen.xml" value="0.23854166666666668" />
