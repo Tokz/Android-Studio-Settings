@@ -5,6 +5,9 @@
         <entry key="../../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="../../../../../layout/custom_preview.xml" value="0.42291666666666666" />
         <entry key="../../../../layout/custom_preview.xml" value="0.42291666666666666" />
+        <entry key="android-chat-lib/src/main/res/layout/fragment_message_list.xml" value="0.39266304347826086" />
+        <entry key="android-chat-lib/src/main/res/layout/item_message_incoming.xml" value="0.39266304347826086" />
+        <entry key="android-chat-lib/src/main/res/layout/item_message_outgoing.xml" value="0.39266304347826086" />
         <entry key="app/src/main/res/drawable-hdpi/jpush_richpush_btn_selector.xml" value="0.1" />
         <entry key="app/src/main/res/drawable-hdpi/jpush_richpush_progressbar.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_account_list.xml" value="0.1094224924012158" />
