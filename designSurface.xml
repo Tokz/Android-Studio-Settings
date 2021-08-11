@@ -14,10 +14,13 @@
         <entry key="app/src/main/res/layout/activity_comments.xml" value="0.26132246376811596" />
         <entry key="app/src/main/res/layout/activity_post_hilo.xml" value="0.22552083333333334" />
         <entry key="app/src/main/res/layout/activity_tradie.xml" value="0.21614583333333334" />
+        <entry key="app/src/main/res/layout/bottom_sheet_upload_image.xml" value="0.39266304347826086" />
+        <entry key="app/src/main/res/layout/component_compound_navigation_button.xml" value="0.39266304347826086" />
         <entry key="app/src/main/res/layout/dialog_unverified_customer.xml" value="0.21614583333333334" />
         <entry key="app/src/main/res/layout/fragment_business_details.xml" value="0.21614583333333334" />
         <entry key="app/src/main/res/layout/fragment_chat.xml" value="0.39427083333333335" />
         <entry key="app/src/main/res/layout/fragment_customer_details.xml" value="0.21614583333333334" />
+        <entry key="app/src/main/res/layout/fragment_delete_account_verify_password.xml" value="0.39266304347826086" />
         <entry key="app/src/main/res/layout/fragment_messages.xml" value="0.39427083333333335" />
         <entry key="app/src/main/res/layout/fragment_messages_list.xml" value="0.278125" />
         <entry key="app/src/main/res/layout/fragment_post_highlight.xml" value="0.22552083333333334" />
@@ -55,9 +58,20 @@
         <entry key="app/src/main/res/layout/notification_fragment.xml" value="0.3917572463768116" />
         <entry key="app/src/main/res/layout/notification_item.xml" value="0.3338541666666667" />
         <entry key="app/src/main/res/layout/notification_item_header.xml" value="0.3338541666666667" />
+        <entry key="app/src/main/res/layout/photoviewer_item_photo_viewer.xml" value="0.39266304347826086" />
+        <entry key="app/src/main/res/layout/places_fragment_search_location.xml" value="0.39266304347826086" />
+        <entry key="app/src/main/res/layout/places_item_search_location.xml" value="0.39266304347826086" />
         <entry key="app/src/main/res/layout/push_notification.xml" value="0.1094224924012158" />
         <entry key="app/src/main/res/layout/reports_item_photo_attachment.xml" value="0.3338541666666667" />
-        <entry key="app/src/main/res/layout/socialmedia_fragment_create_feed.xml" value="0.3338541666666667" />
+        <entry key="app/src/main/res/layout/reports_item_report_category_label.xml" value="0.39266304347826086" />
+        <entry key="app/src/main/res/layout/socialmedia_fragment_create_feed.xml" value="0.39266304347826086" />
+        <entry key="app/src/main/res/layout/socialmedia_fragment_feed_details.xml" value="0.39266304347826086" />
+        <entry key="app/src/main/res/layout/socialmedia_fragment_feeds.xml" value="0.39266304347826086" />
+        <entry key="app/src/main/res/layout/socialmedia_fragment_profile.xml" value="0.39266304347826086" />
+        <entry key="app/src/main/res/layout/socialmedia_include_feed_loading.xml" value="0.39266304347826086" />
+        <entry key="app/src/main/res/layout/socialmedia_include_feeds_loading.xml" value="0.39266304347826086" />
+        <entry key="app/src/main/res/layout/socialmedia_item_comment.xml" value="0.39266304347826086" />
+        <entry key="app/src/main/res/layout/socialmedia_item_feed.xml" value="0.39266304347826086" />
         <entry key="payments/src/main/res/layout/activity_payments.xml" value="0.3338541666666667" />
       </map>
     </option>
