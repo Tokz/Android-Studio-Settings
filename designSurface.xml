@@ -39,6 +39,7 @@
         <entry key="app/src/main/res/layout/fragment_walkthrough.xml" value="0.25769927536231885" />
         <entry key="app/src/main/res/layout/include_business_card.xml" value="0.19174265450861194" />
         <entry key="app/src/main/res/layout/item_chat_incoming.xml" value="0.23489583333333333" />
+        <entry key="app/src/main/res/layout/item_chat_outgoing.xml" value="0.39427083333333335" />
         <entry key="app/src/main/res/layout/item_comment.xml" value="0.1" />
         <entry key="app/src/main/res/layout/item_notification_accept_follow.xml" value="0.22552083333333334" />
         <entry key="app/src/main/res/layout/item_notification_new_comment.xml" value="0.625" />
