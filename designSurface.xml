@@ -19,6 +19,7 @@
         <entry key="app/src/main/res/drawable/socialmedia_background_curve_solitude_20.xml" value="0.23854166666666668" />
         <entry key="app/src/main/res/drawable/socialmedia_ic_button_send.xml" value="0.409375" />
         <entry key="app/src/main/res/layout/activity_account_list.xml" value="0.1094224924012158" />
+        <entry key="app/src/main/res/layout/activity_chat.xml" value="0.39427083333333335" />
         <entry key="app/src/main/res/layout/activity_comments.xml" value="0.26132246376811596" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2234375" />
         <entry key="app/src/main/res/layout/activity_post_hilo.xml" value="0.22552083333333334" />
