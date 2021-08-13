@@ -8,7 +8,7 @@
         <entry key="android-chat-lib/src/main/res/drawable/bg_color_grey_full_rounded.xml" value="0.2462962962962963" />
         <entry key="android-chat-lib/src/main/res/drawable/bg_color_primary_full_rounded_all_10dp.xml" value="0.2462962962962963" />
         <entry key="android-chat-lib/src/main/res/drawable/bg_incoming_bubble.xml" value="0.2462962962962963" />
-        <entry key="android-chat-lib/src/main/res/drawable/bg_outgoing_bubble.xml" value="0.2462962962962963" />
+        <entry key="android-chat-lib/src/main/res/drawable/bg_outgoing_bubble.xml" value="0.409375" />
         <entry key="android-chat-lib/src/main/res/drawable/bg_rounded_grey_border.xml" value="0.23854166666666668" />
         <entry key="android-chat-lib/src/main/res/layout/fragment_channel_list.xml" value="0.2234375" />
         <entry key="android-chat-lib/src/main/res/layout/fragment_message_list.xml" value="0.375" />
