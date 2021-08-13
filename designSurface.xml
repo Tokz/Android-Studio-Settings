@@ -5,9 +5,9 @@
         <entry key="../../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="../../../../../layout/custom_preview.xml" value="0.42291666666666666" />
         <entry key="../../../../layout/custom_preview.xml" value="0.42291666666666666" />
-        <entry key="android-chat-lib/src/main/res/drawable/bg_color_grey_full_rounded.xml" value="0.23425925925925925" />
-        <entry key="android-chat-lib/src/main/res/drawable/bg_color_primary_full_rounded_all_10dp.xml" value="0.23854166666666668" />
-        <entry key="android-chat-lib/src/main/res/drawable/bg_incoming_bubble.xml" value="0.2361111111111111" />
+        <entry key="android-chat-lib/src/main/res/drawable/bg_color_grey_full_rounded.xml" value="0.2462962962962963" />
+        <entry key="android-chat-lib/src/main/res/drawable/bg_color_primary_full_rounded_all_10dp.xml" value="0.2462962962962963" />
+        <entry key="android-chat-lib/src/main/res/drawable/bg_incoming_bubble.xml" value="0.2462962962962963" />
         <entry key="android-chat-lib/src/main/res/drawable/bg_outgoing_bubble.xml" value="0.2462962962962963" />
         <entry key="android-chat-lib/src/main/res/drawable/bg_rounded_grey_border.xml" value="0.23854166666666668" />
         <entry key="android-chat-lib/src/main/res/layout/fragment_channel_list.xml" value="0.2234375" />
