@@ -97,6 +97,7 @@
         <entry key="app/src/main/res/layout/socialmedia_item_comment.xml" value="0.39266304347826086" />
         <entry key="app/src/main/res/layout/socialmedia_item_feed.xml" value="0.39266304347826086" />
         <entry key="common/src/main/res/drawable/ic_arrow_up.xml" value="0.409375" />
+        <entry key="common/src/main/res/drawable/ic_button_send.xml" value="0.1" />
         <entry key="common/src/main/res/drawable/ic_image_add_attachment.xml" value="0.409375" />
         <entry key="common/src/main/res/drawable/ic_imageic_image.xml" value="0.23854166666666668" />
         <entry key="common/src/main/res/drawable/ic_options.xml" value="0.409375" />
