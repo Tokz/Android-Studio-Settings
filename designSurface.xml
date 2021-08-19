@@ -46,6 +46,7 @@
         <entry key="app/src/main/res/layout/fragment_business_details.xml" value="0.21614583333333334" />
         <entry key="app/src/main/res/layout/fragment_chat.xml" value="0.39427083333333335" />
         <entry key="app/src/main/res/layout/fragment_customer_details.xml" value="0.21614583333333334" />
+        <entry key="app/src/main/res/layout/fragment_customer_view_invoice.xml" value="0.2234375" />
         <entry key="app/src/main/res/layout/fragment_delete_account_verify_password.xml" value="0.39266304347826086" />
         <entry key="app/src/main/res/layout/fragment_messages.xml" value="0.39427083333333335" />
         <entry key="app/src/main/res/layout/fragment_messages_list.xml" value="0.278125" />
@@ -57,6 +58,7 @@
         <entry key="app/src/main/res/layout/item_chat_incoming.xml" value="0.23489583333333333" />
         <entry key="app/src/main/res/layout/item_chat_outgoing.xml" value="0.39427083333333335" />
         <entry key="app/src/main/res/layout/item_comment.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/item_customer_invoices.xml" value="0.22395833333333334" />
         <entry key="app/src/main/res/layout/item_notification_accept_follow.xml" value="0.22552083333333334" />
         <entry key="app/src/main/res/layout/item_notification_new_comment.xml" value="0.625" />
         <entry key="app/src/main/res/layout/item_notification_new_follow.xml" value="0.28532608695652173" />
