@@ -7,6 +7,17 @@
         <entry key="app/src/main/res/layout/fragment_tradie_invoices.xml" value="0.4" />
         <entry key="app/src/main/res/layout/item_invoice.xml" value="0.22760416666666666" />
         <entry key="app/src/main/res/layout/item_invoices.xml" value="0.22760416666666666" />
+        <entry key="app/src/main/res/layout/item_notification_accept_colony.xml" value="0.17346014492753623" />
+        <entry key="app/src/main/res/layout/item_notification_accept_follow.xml" value="0.15760869565217392" />
+        <entry key="app/src/main/res/layout/item_notification_change_colony_name.xml" value="0.17346014492753623" />
+        <entry key="app/src/main/res/layout/item_notification_change_leader.xml" value="0.17346014492753623" />
+        <entry key="app/src/main/res/layout/item_notification_colony_delete.xml" value="0.17346014492753623" />
+        <entry key="app/src/main/res/layout/item_notification_invite_colony.xml" value="0.17346014492753623" />
+        <entry key="app/src/main/res/layout/item_notification_member_colony.xml" value="0.17346014492753623" />
+        <entry key="app/src/main/res/layout/item_notification_new_comment.xml" value="0.17346014492753623" />
+        <entry key="app/src/main/res/layout/item_notification_new_follow.xml" value="0.17346014492753623" />
+        <entry key="app/src/main/res/layout/item_notification_pending_colony.xml" value="0.17346014492753623" />
+        <entry key="app/src/main/res/layout/item_notification_pending_follow.xml" value="0.17346014492753623" />
         <entry key="app/src/main/res/layout/item_notification_reaction.xml" value="0.29030797101449274" />
       </map>
     </option>
