@@ -3,6 +3,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="android-chat-lib/src/main/res/layout/dialog_choose_image.xml" value="0.1945288753799392" />
+        <entry key="app/src/main/res/layout-night/notification_fragment.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_tradie_view_invoice.xml" value="0.22760416666666666" />
         <entry key="app/src/main/res/layout/fragment_tradie_invoices.xml" value="0.4" />
         <entry key="app/src/main/res/layout/item_invoice.xml" value="0.22760416666666666" />
@@ -19,6 +20,7 @@
         <entry key="app/src/main/res/layout/item_notification_pending_colony.xml" value="0.17346014492753623" />
         <entry key="app/src/main/res/layout/item_notification_pending_follow.xml" value="0.17346014492753623" />
         <entry key="app/src/main/res/layout/item_notification_reaction.xml" value="0.29030797101449274" />
+        <entry key="app/src/main/res/menu/menu_bottom_nav.xml" value="0.1" />
       </map>
     </option>
   </component>
