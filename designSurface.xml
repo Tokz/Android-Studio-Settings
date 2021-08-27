@@ -3,6 +3,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="android-chat-lib/src/main/res/layout/dialog_choose_image.xml" value="0.1945288753799392" />
+        <entry key="android-chat-lib/src/main/res/layout/fragment_chat.xml" value="0.4" />
         <entry key="app/src/main/res/layout-night/notification_fragment.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_tradie_view_invoice.xml" value="0.22760416666666666" />
         <entry key="app/src/main/res/layout/fragment_customer_account.xml" value="0.12635869565217392" />
