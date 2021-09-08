@@ -17,6 +17,10 @@
         <entry key="android-chat-lib/src/main/res/drawable/online_indicator_default.xml" value="0.1890625" />
         <entry key="android-chat-lib/src/main/res/layout/dialog_choose_image.xml" value="0.1945288753799392" />
         <entry key="android-chat-lib/src/main/res/layout/fragment_chat.xml" value="0.22604166666666667" />
+        <entry key="android-chat-lib/src/main/res/layout/fragment_messages.xml" value="0.15552178318135765" />
+        <entry key="android-chat-lib/src/main/res/layout/item_chat_incoming.xml" value="0.15552178318135765" />
+        <entry key="android-chat-lib/src/main/res/layout/item_message_read.xml" value="0.15552178318135765" />
+        <entry key="android-chat-lib/src/main/res/layout/item_message_unread.xml" value="0.15552178318135765" />
         <entry key="app/src/main/res/drawable/dot.xml" value="0.1925925925925926" />
         <entry key="app/src/main/res/drawable/dot_default.xml" value="0.1925925925925926" />
         <entry key="app/src/main/res/drawable/dot_selected.xml" value="0.14537037037037037" />
