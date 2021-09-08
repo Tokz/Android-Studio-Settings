@@ -2,13 +2,23 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../../../../layout/custom_preview.xml" value="0.13703703703703704" />
+        <entry key="android-chat-lib/src/main/res/drawable/bg_color_grey_full_rounded.xml" value="0.13703703703703704" />
+        <entry key="android-chat-lib/src/main/res/drawable/bg_color_grey_inactive_50_rounded_all_8dp.xml" value="0.13703703703703704" />
+        <entry key="android-chat-lib/src/main/res/drawable/bg_color_primary_full_rounded_all_10dp.xml" value="0.13703703703703704" />
+        <entry key="android-chat-lib/src/main/res/drawable/bg_incoming_bubble.xml" value="0.1925925925925926" />
+        <entry key="android-chat-lib/src/main/res/drawable/bg_input_button.xml" value="0.1925925925925926" />
+        <entry key="android-chat-lib/src/main/res/drawable/bg_input_button_active.xml" value="0.1925925925925926" />
+        <entry key="android-chat-lib/src/main/res/drawable/bg_outgoing_bubble.xml" value="0.1925925925925926" />
+        <entry key="android-chat-lib/src/main/res/drawable/ic_search.xml" value="0.1925925925925926" />
+        <entry key="android-chat-lib/src/main/res/drawable/image_channel_empty.xml" value="0.1925925925925926" />
         <entry key="android-chat-lib/src/main/res/drawable/online_indicator.xml" value="0.1890625" />
         <entry key="android-chat-lib/src/main/res/drawable/online_indicator_active.xml" value="0.1890625" />
         <entry key="android-chat-lib/src/main/res/drawable/online_indicator_default.xml" value="0.1890625" />
         <entry key="android-chat-lib/src/main/res/layout/dialog_choose_image.xml" value="0.1945288753799392" />
-        <entry key="android-chat-lib/src/main/res/layout/fragment_chat.xml" value="0.31301939058171746" />
-        <entry key="app/src/main/res/drawable/dot.xml" value="0.14537037037037037" />
-        <entry key="app/src/main/res/drawable/dot_default.xml" value="0.14537037037037037" />
+        <entry key="android-chat-lib/src/main/res/layout/fragment_chat.xml" value="0.22604166666666667" />
+        <entry key="app/src/main/res/drawable/dot.xml" value="0.1925925925925926" />
+        <entry key="app/src/main/res/drawable/dot_default.xml" value="0.1925925925925926" />
         <entry key="app/src/main/res/drawable/dot_selected.xml" value="0.14537037037037037" />
         <entry key="app/src/main/res/layout-night/notification_fragment.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_customer_edit_profile.xml" value="0.1" />
@@ -34,6 +44,7 @@
         <entry key="app/src/main/res/layout/item_notification_reaction.xml" value="0.29030797101449274" />
         <entry key="app/src/main/res/layout/notification_fragment.xml" value="0.11296296296296296" />
         <entry key="app/src/main/res/menu/menu_bottom_nav.xml" value="0.22037037037037038" />
+        <entry key="common/src/main/res/drawable/ic_button_send.xml" value="0.15648148148148147" />
       </map>
     </option>
   </component>
