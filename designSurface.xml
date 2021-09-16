@@ -17,6 +17,7 @@
         <entry key="android-chat-lib/src/main/res/drawable/online_indicator_default.xml" value="0.1890625" />
         <entry key="android-chat-lib/src/main/res/layout/dialog_choose_image.xml" value="0.1945288753799392" />
         <entry key="android-chat-lib/src/main/res/layout/fragment_chat.xml" value="0.12704918032786885" />
+        <entry key="android-chat-lib/src/main/res/layout/fragment_message_list.xml" value="0.19174265450861194" />
         <entry key="android-chat-lib/src/main/res/layout/fragment_messages.xml" value="0.15552178318135765" />
         <entry key="android-chat-lib/src/main/res/layout/item_chat_incoming.xml" value="0.15552178318135765" />
         <entry key="android-chat-lib/src/main/res/layout/item_message_read.xml" value="0.15552178318135765" />
@@ -27,6 +28,7 @@
         <entry key="app/src/main/res/layout-night/notification_fragment.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_customer_edit_profile.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_tradie_view_invoice.xml" value="0.22760416666666666" />
+        <entry key="app/src/main/res/layout/bottom_sheet_upload_image.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_customer_account.xml" value="0.12635869565217392" />
         <entry key="app/src/main/res/layout/fragment_customer_view_invoice.xml" value="0.1945288753799392" />
         <entry key="app/src/main/res/layout/fragment_scan_qr.xml" value="0.1634963768115942" />
