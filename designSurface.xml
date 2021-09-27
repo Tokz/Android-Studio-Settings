@@ -27,6 +27,7 @@
         <entry key="app/src/main/res/drawable/dot.xml" value="0.1925925925925926" />
         <entry key="app/src/main/res/drawable/dot_default.xml" value="0.1925925925925926" />
         <entry key="app/src/main/res/drawable/dot_selected.xml" value="0.14537037037037037" />
+        <entry key="app/src/main/res/drawable/ic_button_send.xml" value="0.18958333333333333" />
         <entry key="app/src/main/res/drawable/ic_image_add_attachment.xml" value="0.18958333333333333" />
         <entry key="app/src/main/res/layout-night/notification_fragment.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_customer_edit_profile.xml" value="0.1" />
