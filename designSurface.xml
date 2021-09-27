@@ -3,8 +3,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../../layout/custom_preview.xml" value="0.13703703703703704" />
-        <entry key="android-chat-lib/src/main/res/drawable/bg_color_grey_full_rounded.xml" value="0.13703703703703704" />
-        <entry key="android-chat-lib/src/main/res/drawable/bg_color_grey_inactive_50_rounded_all_8dp.xml" value="0.13703703703703704" />
+        <entry key="android-chat-lib/src/main/res/drawable/bg_color_grey_full_rounded.xml" value="0.18958333333333333" />
+        <entry key="android-chat-lib/src/main/res/drawable/bg_color_grey_inactive_50_rounded_all_8dp.xml" value="0.1527777777777778" />
         <entry key="android-chat-lib/src/main/res/drawable/bg_color_primary_full_rounded_all_10dp.xml" value="0.13703703703703704" />
         <entry key="android-chat-lib/src/main/res/drawable/bg_incoming_bubble.xml" value="0.1925925925925926" />
         <entry key="android-chat-lib/src/main/res/drawable/bg_input_button.xml" value="0.1925925925925926" />
