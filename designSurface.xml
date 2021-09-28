@@ -54,6 +54,7 @@
         <entry key="app/src/main/res/layout/item_notification_reaction.xml" value="0.29030797101449274" />
         <entry key="app/src/main/res/layout/notification_fragment.xml" value="0.11296296296296296" />
         <entry key="app/src/main/res/menu/menu_bottom_nav.xml" value="0.22037037037037038" />
+        <entry key="common/src/main/res/drawable-nodpi/ic_back.xml" value="0.18958333333333333" />
         <entry key="common/src/main/res/drawable/ic_button_send.xml" value="0.15648148148148147" />
       </map>
     </option>
