@@ -40,6 +40,7 @@
         <entry key="app/src/main/res/layout/fragment_scan_qr.xml" value="0.1634963768115942" />
         <entry key="app/src/main/res/layout/fragment_tradie_invoices.xml" value="0.4" />
         <entry key="app/src/main/res/layout/fragment_walkthrough.xml" value="0.45" />
+        <entry key="app/src/main/res/layout/item_feed.xml" value="0.15760869565217392" />
         <entry key="app/src/main/res/layout/item_invoice.xml" value="0.22760416666666666" />
         <entry key="app/src/main/res/layout/item_invoices.xml" value="0.22760416666666666" />
         <entry key="app/src/main/res/layout/item_notification_accept_colony.xml" value="0.17346014492753623" />
