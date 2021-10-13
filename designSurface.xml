@@ -52,7 +52,7 @@
         <entry key="app/src/main/res/layout/item_notification_colony_delete.xml" value="0.17346014492753623" />
         <entry key="app/src/main/res/layout/item_notification_invite_colony.xml" value="0.17346014492753623" />
         <entry key="app/src/main/res/layout/item_notification_member_colony.xml" value="0.17346014492753623" />
-        <entry key="app/src/main/res/layout/item_notification_new_comment.xml" value="0.17346014492753623" />
+        <entry key="app/src/main/res/layout/item_notification_new_comment.xml" value="0.19067028985507245" />
         <entry key="app/src/main/res/layout/item_notification_new_follow.xml" value="0.17346014492753623" />
         <entry key="app/src/main/res/layout/item_notification_pending_colony.xml" value="0.17346014492753623" />
         <entry key="app/src/main/res/layout/item_notification_pending_follow.xml" value="0.17346014492753623" />
