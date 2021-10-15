@@ -10,6 +10,7 @@
         <entry key="android-chat-lib/src/main/res/drawable/bg_incoming_bubble.xml" value="0.1925925925925926" />
         <entry key="android-chat-lib/src/main/res/drawable/bg_input_button.xml" value="0.1925925925925926" />
         <entry key="android-chat-lib/src/main/res/drawable/bg_input_button_active.xml" value="0.1925925925925926" />
+        <entry key="android-chat-lib/src/main/res/drawable/bg_online_status.xml" value="0.2421875" />
         <entry key="android-chat-lib/src/main/res/drawable/bg_outgoing_bubble.xml" value="0.1925925925925926" />
         <entry key="android-chat-lib/src/main/res/drawable/ic_search.xml" value="0.1925925925925926" />
         <entry key="android-chat-lib/src/main/res/drawable/image_channel_empty.xml" value="0.1925925925925926" />
@@ -24,10 +25,10 @@
         <entry key="android-chat-lib/src/main/res/layout/item_chat_incoming.xml" value="0.15552178318135765" />
         <entry key="android-chat-lib/src/main/res/layout/item_chat_outgoing.xml" value="0.1925925925925926" />
         <entry key="android-chat-lib/src/main/res/layout/item_message_read.xml" value="0.22708333333333333" />
-        <entry key="android-chat-lib/src/main/res/layout/item_message_unread.xml" value="0.19351570415400202" />
+        <entry key="android-chat-lib/src/main/res/layout/item_message_unread.xml" value="0.2056159420289855" />
         <entry key="app/src/main/res/drawable/dot.xml" value="0.41302083333333334" />
         <entry key="app/src/main/res/drawable/dot_default.xml" value="0.2421875" />
-        <entry key="app/src/main/res/drawable/dot_selected.xml" value="0.14537037037037037" />
+        <entry key="app/src/main/res/drawable/dot_selected.xml" value="0.2421875" />
         <entry key="app/src/main/res/drawable/ic_button_send.xml" value="0.18958333333333333" />
         <entry key="app/src/main/res/drawable/ic_image_add_attachment.xml" value="0.18958333333333333" />
         <entry key="app/src/main/res/layout-night/notification_fragment.xml" value="0.1" />
