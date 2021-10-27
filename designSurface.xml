@@ -61,6 +61,7 @@
         <entry key="app/src/main/res/layout/item_notification_pending_follow.xml" value="0.17346014492753623" />
         <entry key="app/src/main/res/layout/item_notification_reaction.xml" value="0.29030797101449274" />
         <entry key="app/src/main/res/layout/notification_fragment.xml" value="0.11296296296296296" />
+        <entry key="app/src/main/res/layout/socialmedia_item_feed.xml" value="0.2708333333333333" />
         <entry key="app/src/main/res/menu/menu_bottom_nav.xml" value="0.22037037037037038" />
         <entry key="common/src/main/res/drawable-nodpi/ic_back.xml" value="0.18958333333333333" />
         <entry key="common/src/main/res/drawable-xxxhdpi/ic_back.xml" value="0.1" />
