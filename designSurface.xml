@@ -19,7 +19,7 @@
         <entry key="android-chat-lib/src/main/res/drawable/online_indicator_default.xml" value="0.1890625" />
         <entry key="android-chat-lib/src/main/res/layout/bottom_sheet_chat_options.xml" value="0.14766970618034447" />
         <entry key="android-chat-lib/src/main/res/layout/dialog_choose_image.xml" value="0.1945288753799392" />
-        <entry key="android-chat-lib/src/main/res/layout/fragment_chat.xml" value="0.12704918032786885" />
+        <entry key="android-chat-lib/src/main/res/layout/fragment_chat.xml" value="0.19351570415400202" />
         <entry key="android-chat-lib/src/main/res/layout/fragment_messages.xml" value="0.15552178318135765" />
         <entry key="android-chat-lib/src/main/res/layout/item_chat_date.xml" value="0.1638888888888889" />
         <entry key="android-chat-lib/src/main/res/layout/item_chat_incoming.xml" value="0.15552178318135765" />
