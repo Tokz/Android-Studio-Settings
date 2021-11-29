@@ -33,7 +33,7 @@
         <entry key="app/src/main/res/drawable/ic_image_add_attachment.xml" value="0.18958333333333333" />
         <entry key="app/src/main/res/layout-night/notification_fragment.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_create_invoice.xml" value="0.19351570415400202" />
-        <entry key="app/src/main/res/layout/activity_customer_edit_profile.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_customer_edit_profile.xml" value="0.15217391304347827" />
         <entry key="app/src/main/res/layout/activity_email_verification_code.xml" value="0.19351570415400202" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.15552178318135765" />
         <entry key="app/src/main/res/layout/activity_tradie_edit_profile.xml" value="0.15552178318135765" />
