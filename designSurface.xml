@@ -52,6 +52,7 @@
         <entry key="app/src/main/res/layout/fragment_input_name.xml" value="0.2265625" />
         <entry key="app/src/main/res/layout/fragment_landing.xml" value="0.2265625" />
         <entry key="app/src/main/res/layout/fragment_phone_number_check.xml" value="0.2265625" />
+        <entry key="app/src/main/res/layout/fragment_primary_phone_verification.xml" value="0.2265625" />
         <entry key="app/src/main/res/layout/fragment_quick_login_setup.xml" value="0.2265625" />
         <entry key="app/src/main/res/layout/fragment_register_verification_code.xml" value="0.2265625" />
         <entry key="app/src/main/res/layout/fragment_scan_qr.xml" value="0.1634963768115942" />
