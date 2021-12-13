@@ -92,6 +92,7 @@
         <entry key="app/src/main/res/layout/kitchen_sink_bottom_navigation.xml" value="0.2265625" />
         <entry key="app/src/main/res/layout/notification_fragment.xml" value="0.11296296296296296" />
         <entry key="app/src/main/res/layout/socialmedia_item_feed.xml" value="0.2708333333333333" />
+        <entry key="app/src/main/res/menu/drawer_navigation_menu.xml" value="0.2265625" />
         <entry key="app/src/main/res/menu/menu_bottom_nav.xml" value="0.22037037037037038" />
         <entry key="common/src/main/res/drawable-nodpi/ic_back.xml" value="0.18958333333333333" />
         <entry key="common/src/main/res/drawable-xxxhdpi/ic_back.xml" value="0.1" />
