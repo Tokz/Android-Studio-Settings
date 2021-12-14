@@ -29,8 +29,10 @@
         <entry key="app/src/main/res/drawable/dot.xml" value="0.41302083333333334" />
         <entry key="app/src/main/res/drawable/dot_default.xml" value="0.2421875" />
         <entry key="app/src/main/res/drawable/dot_selected.xml" value="0.2421875" />
+        <entry key="app/src/main/res/drawable/ic_baseline_delete_forever_24.xml" value="0.24166666666666667" />
         <entry key="app/src/main/res/drawable/ic_button_send.xml" value="0.18958333333333333" />
         <entry key="app/src/main/res/drawable/ic_image_add_attachment.xml" value="0.18958333333333333" />
+        <entry key="app/src/main/res/drawable/ic_outline_info_24.xml" value="0.24166666666666667" />
         <entry key="app/src/main/res/layout-night/notification_fragment.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_colony.xml" value="0.23072916666666668" />
         <entry key="app/src/main/res/layout/activity_create_invoice.xml" value="0.19351570415400202" />
