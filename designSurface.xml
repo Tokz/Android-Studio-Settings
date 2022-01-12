@@ -47,6 +47,7 @@
         <entry key="app/src/main/res/layout/dialog_delete_post_warning.xml" value="0.12952898550724637" />
         <entry key="app/src/main/res/layout/dialog_view_reactions.xml" value="0.3605072463768116" />
         <entry key="app/src/main/res/layout/fragment_account.xml" value="0.25679347826086957" />
+        <entry key="app/src/main/res/layout/fragment_approved_account.xml" value="0.19351570415400202" />
         <entry key="app/src/main/res/layout/fragment_change_current_password.xml" value="0.2265625" />
         <entry key="app/src/main/res/layout/fragment_customer_account.xml" value="0.12635869565217392" />
         <entry key="app/src/main/res/layout/fragment_customer_invoices.xml" value="0.19351570415400202" />
