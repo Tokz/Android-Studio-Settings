@@ -76,6 +76,7 @@
         <entry key="app/src/main/res/layout/fragment_repayment_account.xml" value="0.2671875" />
         <entry key="app/src/main/res/layout/fragment_scan_qr.xml" value="0.1634963768115942" />
         <entry key="app/src/main/res/layout/fragment_setup_passcode.xml" value="0.2265625" />
+        <entry key="app/src/main/res/layout/fragment_signup.xml" value="0.1634963768115942" />
         <entry key="app/src/main/res/layout/fragment_subscription.xml" value="0.2265625" />
         <entry key="app/src/main/res/layout/fragment_tradie_invoices.xml" value="0.4" />
         <entry key="app/src/main/res/layout/fragment_upload_profile_photo.xml" value="0.36343871103058245" />
