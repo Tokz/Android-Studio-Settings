@@ -51,6 +51,7 @@
         <entry key="app/src/main/res/layout/fragment_account_settings.xml" value="0.26979166666666665" />
         <entry key="app/src/main/res/layout/fragment_approved_account.xml" value="0.39791666666666664" />
         <entry key="app/src/main/res/layout/fragment_change_current_password.xml" value="0.2265625" />
+        <entry key="app/src/main/res/layout/fragment_confirm_passcode.xml" value="0.396286231884058" />
         <entry key="app/src/main/res/layout/fragment_customer_account.xml" value="0.12635869565217392" />
         <entry key="app/src/main/res/layout/fragment_customer_invoices.xml" value="0.19351570415400202" />
         <entry key="app/src/main/res/layout/fragment_customer_view_invoice.xml" value="0.1945288753799392" />
@@ -75,7 +76,7 @@
         <entry key="app/src/main/res/layout/fragment_register_verification_code.xml" value="0.2265625" />
         <entry key="app/src/main/res/layout/fragment_repayment_account.xml" value="0.2671875" />
         <entry key="app/src/main/res/layout/fragment_scan_qr.xml" value="0.1634963768115942" />
-        <entry key="app/src/main/res/layout/fragment_setup_passcode.xml" value="0.2265625" />
+        <entry key="app/src/main/res/layout/fragment_setup_passcode.xml" value="0.39791666666666664" />
         <entry key="app/src/main/res/layout/fragment_signup.xml" value="0.1634963768115942" />
         <entry key="app/src/main/res/layout/fragment_subscription.xml" value="0.2265625" />
         <entry key="app/src/main/res/layout/fragment_tradie_invoices.xml" value="0.4" />
