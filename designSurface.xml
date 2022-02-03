@@ -59,17 +59,18 @@
         <entry key="app/src/main/res/layout/fragment_customer_invoices.xml" value="0.19351570415400202" />
         <entry key="app/src/main/res/layout/fragment_customer_view_invoice.xml" value="0.1945288753799392" />
         <entry key="app/src/main/res/layout/fragment_email_verification_code.xml" value="0.19351570415400202" />
-        <entry key="app/src/main/res/layout/fragment_forgot_password.xml" value="0.19384057971014493" />
-        <entry key="app/src/main/res/layout/fragment_forgot_password_verification_code.xml" value="0.2265625" />
+        <entry key="app/src/main/res/layout/fragment_forgot_password.xml" value="0.31354166666666666" />
+        <entry key="app/src/main/res/layout/fragment_forgot_password_verification_code.xml" value="0.2980072463768116" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.2391304347826087" />
         <entry key="app/src/main/res/layout/fragment_input_name.xml" value="0.2265625" />
         <entry key="app/src/main/res/layout/fragment_landing.xml" value="0.1403242147922999" />
-        <entry key="app/src/main/res/layout/fragment_login.xml" value="0.3894927536231884" />
+        <entry key="app/src/main/res/layout/fragment_login.xml" value="0.31354166666666666" />
         <entry key="app/src/main/res/layout/fragment_login_method_passcode.xml" value="0.3894927536231884" />
         <entry key="app/src/main/res/layout/fragment_login_methods.xml" value="0.3894927536231884" />
         <entry key="app/src/main/res/layout/fragment_login_passcode.xml" value="0.2671875" />
         <entry key="app/src/main/res/layout/fragment_mobile_verification.xml" value="0.2265625" />
         <entry key="app/src/main/res/layout/fragment_my_profile_reworked.xml" value="0.19479166666666667" />
+        <entry key="app/src/main/res/layout/fragment_new_password.xml" value="0.2980072463768116" />
         <entry key="app/src/main/res/layout/fragment_notification_setup.xml" value="0.2164855072463768" />
         <entry key="app/src/main/res/layout/fragment_passport.xml" value="0.2671875" />
         <entry key="app/src/main/res/layout/fragment_phone_number_check.xml" value="0.2671875" />
