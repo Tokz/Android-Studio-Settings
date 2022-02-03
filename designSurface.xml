@@ -61,6 +61,7 @@
         <entry key="app/src/main/res/layout/fragment_email_verification_code.xml" value="0.19351570415400202" />
         <entry key="app/src/main/res/layout/fragment_forgot_password.xml" value="0.31354166666666666" />
         <entry key="app/src/main/res/layout/fragment_forgot_password_verification_code.xml" value="0.38125" />
+        <entry key="app/src/main/res/layout/fragment_highlight.xml" value="0.21739130434782608" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.2391304347826087" />
         <entry key="app/src/main/res/layout/fragment_input_name.xml" value="0.2265625" />
         <entry key="app/src/main/res/layout/fragment_landing.xml" value="0.1634963768115942" />
@@ -72,6 +73,9 @@
         <entry key="app/src/main/res/layout/fragment_my_profile_reworked.xml" value="0.19479166666666667" />
         <entry key="app/src/main/res/layout/fragment_new_password.xml" value="0.2980072463768116" />
         <entry key="app/src/main/res/layout/fragment_notification_setup.xml" value="0.2164855072463768" />
+        <entry key="app/src/main/res/layout/fragment_other_profile_highlight.xml" value="0.21739130434782608" />
+        <entry key="app/src/main/res/layout/fragment_other_profile_posts.xml" value="0.21739130434782608" />
+        <entry key="app/src/main/res/layout/fragment_other_user_profile.xml" value="0.21739130434782608" />
         <entry key="app/src/main/res/layout/fragment_passport.xml" value="0.2671875" />
         <entry key="app/src/main/res/layout/fragment_phone_number_check.xml" value="0.2671875" />
         <entry key="app/src/main/res/layout/fragment_posts.xml" value="0.21739130434782608" />
@@ -119,6 +123,7 @@
         <entry key="app/src/main/res/layout/item_walkthrough_3.xml" value="0.2265625" />
         <entry key="app/src/main/res/layout/kitchen_sink_bottom_navigation.xml" value="0.2265625" />
         <entry key="app/src/main/res/layout/notification_fragment.xml" value="0.11296296296296296" />
+        <entry key="app/src/main/res/layout/other_user_profile_main_layout.xml" value="0.21739130434782608" />
         <entry key="app/src/main/res/layout/socialmedia_item_feed.xml" value="0.2708333333333333" />
         <entry key="app/src/main/res/menu/drawer_navigation_menu.xml" value="0.2265625" />
         <entry key="app/src/main/res/menu/menu_bottom_nav.xml" value="0.2989583333333333" />
