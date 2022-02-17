@@ -100,6 +100,8 @@
         <entry key="app/src/main/res/layout/fragment_welcome_to_handy.xml" value="0.3" />
         <entry key="app/src/main/res/layout/fragment_your_identity.xml" value="0.3" />
         <entry key="app/src/main/res/layout/include_button.xml" value="0.28125" />
+        <entry key="app/src/main/res/layout/include_button_with_error.xml" value="0.18385416666666668" />
+        <entry key="app/src/main/res/layout/include_button_with_info.xml" value="0.18385416666666668" />
         <entry key="app/src/main/res/layout/include_progress_loader.xml" value="0.240625" />
         <entry key="app/src/main/res/layout/item_colony.xml" value="0.23072916666666668" />
         <entry key="app/src/main/res/layout/item_colony_recomended.xml" value="0.30885416666666665" />
