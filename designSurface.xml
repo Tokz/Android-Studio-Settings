@@ -67,7 +67,7 @@
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.2391304347826087" />
         <entry key="app/src/main/res/layout/fragment_input_name.xml" value="0.2265625" />
         <entry key="app/src/main/res/layout/fragment_landing.xml" value="0.17314814814814813" />
-        <entry key="app/src/main/res/layout/fragment_login.xml" value="0.39791666666666664" />
+        <entry key="app/src/main/res/layout/fragment_login.xml" value="0.33" />
         <entry key="app/src/main/res/layout/fragment_login_method_passcode.xml" value="0.16428571428571428" />
         <entry key="app/src/main/res/layout/fragment_login_methods.xml" value="0.25" />
         <entry key="app/src/main/res/layout/fragment_login_passcode.xml" value="0.2671875" />
