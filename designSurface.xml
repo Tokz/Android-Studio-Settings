@@ -73,7 +73,7 @@
         <entry key="app/src/main/res/layout/fragment_login_passcode.xml" value="0.2671875" />
         <entry key="app/src/main/res/layout/fragment_mobile_verification.xml" value="0.2265625" />
         <entry key="app/src/main/res/layout/fragment_my_profile_reworked.xml" value="0.19479166666666667" />
-        <entry key="app/src/main/res/layout/fragment_new_password.xml" value="0.2980072463768116" />
+        <entry key="app/src/main/res/layout/fragment_new_password.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_notification_setup.xml" value="0.2164855072463768" />
         <entry key="app/src/main/res/layout/fragment_other_profile_highlight.xml" value="0.21739130434782608" />
         <entry key="app/src/main/res/layout/fragment_other_profile_posts.xml" value="0.21739130434782608" />
