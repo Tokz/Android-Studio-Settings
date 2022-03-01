@@ -31,6 +31,7 @@
         <entry key="app/src/main/res/drawable/dot_selected.xml" value="0.2421875" />
         <entry key="app/src/main/res/drawable/ic_baseline_delete_forever_24.xml" value="0.41302083333333334" />
         <entry key="app/src/main/res/drawable/ic_button_send.xml" value="0.18958333333333333" />
+        <entry key="app/src/main/res/drawable/ic_feather_edit.xml" value="0.2328125" />
         <entry key="app/src/main/res/drawable/ic_image_add_attachment.xml" value="0.18958333333333333" />
         <entry key="app/src/main/res/drawable/ic_outline_info_24.xml" value="0.41302083333333334" />
         <entry key="app/src/main/res/layout-night/notification_fragment.xml" value="0.1" />
@@ -62,6 +63,7 @@
         <entry key="app/src/main/res/layout/fragment_customer_account.xml" value="0.12635869565217392" />
         <entry key="app/src/main/res/layout/fragment_customer_invoices.xml" value="0.19351570415400202" />
         <entry key="app/src/main/res/layout/fragment_customer_view_invoice.xml" value="0.1945288753799392" />
+        <entry key="app/src/main/res/layout/fragment_edit_your_details.xml" value="0.21770833333333334" />
         <entry key="app/src/main/res/layout/fragment_email_verification_code.xml" value="0.19351570415400202" />
         <entry key="app/src/main/res/layout/fragment_forgot_password.xml" value="0.31354166666666666" />
         <entry key="app/src/main/res/layout/fragment_forgot_password_verification_code.xml" value="0.38125" />
