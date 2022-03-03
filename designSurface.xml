@@ -57,6 +57,7 @@
         <entry key="app/src/main/res/layout/fragment_approved_account.xml" value="0.14825421856712048" />
         <entry key="app/src/main/res/layout/fragment_auth_verification_code.xml" value="0.29030797101449274" />
         <entry key="app/src/main/res/layout/fragment_change_current_password.xml" value="0.2265625" />
+        <entry key="app/src/main/res/layout/fragment_change_email_verify_code.xml" value="0.19583333333333333" />
         <entry key="app/src/main/res/layout/fragment_change_new_password.xml" value="0.33541666666666664" />
         <entry key="app/src/main/res/layout/fragment_colony.xml" value="0.2140625" />
         <entry key="app/src/main/res/layout/fragment_confirm_passcode.xml" value="0.396286231884058" />
