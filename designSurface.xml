@@ -72,7 +72,7 @@
         <entry key="app/src/main/res/layout/fragment_highlight.xml" value="0.21739130434782608" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.2391304347826087" />
         <entry key="app/src/main/res/layout/fragment_input_name.xml" value="0.2265625" />
-        <entry key="app/src/main/res/layout/fragment_landing.xml" value="0.17314814814814813" />
+        <entry key="app/src/main/res/layout/fragment_landing.xml" value="0.21422101449275363" />
         <entry key="app/src/main/res/layout/fragment_login.xml" value="0.33" />
         <entry key="app/src/main/res/layout/fragment_login_method_passcode.xml" value="0.16428571428571428" />
         <entry key="app/src/main/res/layout/fragment_login_methods.xml" value="0.25" />
@@ -107,9 +107,11 @@
         <entry key="app/src/main/res/layout/fragment_welcome_to_handy.xml" value="0.3" />
         <entry key="app/src/main/res/layout/fragment_your_identity.xml" value="0.3" />
         <entry key="app/src/main/res/layout/include_button.xml" value="0.28125" />
-        <entry key="app/src/main/res/layout/include_button_with_error.xml" value="0.18385416666666668" />
-        <entry key="app/src/main/res/layout/include_button_with_info.xml" value="0.18385416666666668" />
+        <entry key="app/src/main/res/layout/include_button_with_error.xml" value="0.21422101449275363" />
+        <entry key="app/src/main/res/layout/include_button_with_info.xml" value="0.33541666666666664" />
         <entry key="app/src/main/res/layout/include_footer_error.xml" value="0.24114583333333334" />
+        <entry key="app/src/main/res/layout/include_horizontal_line_separator.xml" value="0.33541666666666664" />
+        <entry key="app/src/main/res/layout/include_onboarding_step.xml" value="0.33541666666666664" />
         <entry key="app/src/main/res/layout/include_progress_loader.xml" value="0.240625" />
         <entry key="app/src/main/res/layout/item_colony.xml" value="0.23072916666666668" />
         <entry key="app/src/main/res/layout/item_colony_recomended.xml" value="0.30885416666666665" />
@@ -146,7 +148,7 @@
         <entry key="common/src/main/res/drawable-xxxhdpi/image_placeholder.xml" value="0.3101851851851852" />
         <entry key="common/src/main/res/drawable/ic_button_send.xml" value="0.15648148148148147" />
         <entry key="common/src/main/res/drawable/ic_close.xml" value="0.3302564102564103" />
-        <entry key="common/src/main/res/layout/include_top_appbar_sub.xml" value="0.1526268115942029" />
+        <entry key="common/src/main/res/layout/include_top_appbar_sub.xml" value="0.21422101449275363" />
         <entry key="common/src/main/res/layout/include_top_appbar_sub_centered.xml" value="0.2604166666666667" />
       </map>
     </option>
