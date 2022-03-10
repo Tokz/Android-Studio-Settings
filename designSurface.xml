@@ -41,7 +41,7 @@
         <entry key="app/src/main/res/layout/activity_email_verification_code.xml" value="0.19351570415400202" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.15552178318135765" />
         <entry key="app/src/main/res/layout/activity_sample.xml" value="0.37916666666666665" />
-        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.22604166666666667" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.33541666666666664" />
         <entry key="app/src/main/res/layout/activity_tradie_edit_profile.xml" value="0.15552178318135765" />
         <entry key="app/src/main/res/layout/activity_tradie_view_invoice.xml" value="0.22760416666666666" />
         <entry key="app/src/main/res/layout/activity_view_all_colonies.xml" value="0.2140625" />
@@ -54,6 +54,7 @@
         <entry key="app/src/main/res/layout/fragment_about_you.xml" value="0.3" />
         <entry key="app/src/main/res/layout/fragment_account.xml" value="0.3" />
         <entry key="app/src/main/res/layout/fragment_account_settings.xml" value="0.3" />
+        <entry key="app/src/main/res/layout/fragment_activity_screen.xml" value="0.33541666666666664" />
         <entry key="app/src/main/res/layout/fragment_approved_account.xml" value="0.14825421856712048" />
         <entry key="app/src/main/res/layout/fragment_auth_verification_code.xml" value="0.29030797101449274" />
         <entry key="app/src/main/res/layout/fragment_change_current_password.xml" value="0.2265625" />
