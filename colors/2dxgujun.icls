@@ -4,9 +4,13 @@
     <property name="created">2018-06-06T11:06:43</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.1.2.0</property>
-    <property name="modified">2019-12-18T14:01:30</property>
+    <property name="modified">2022-03-17T20:53:22</property>
     <property name="originalScheme">dark-2dxgujun</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_LINE_SPACING" value="1.1" />
   <colors>
@@ -79,9 +83,9 @@
         <option name="FOREGROUND" value="d0ad7a" />
       </value>
     </option>
-    <option name="BASH.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
+    <option name="BASH.FUNCTION_CALL" baseAttributes="" />
     <option name="BASH.FUNCTION_DEF_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="BASH.INTERNAL_COMMAND" baseAttributes="BASH.EXTERNAL_COMMAND" />
+    <option name="BASH.INTERNAL_COMMAND" baseAttributes="" />
     <option name="BASH.SHEBANG">
       <value />
     </option>
@@ -243,7 +247,6 @@
         <option name="FOREGROUND" value="4646f1" />
       </value>
     </option>
-    <option name="DART_CONSTRUCTOR" baseAttributes="DART_INSTANCE_METHOD_DECLARATION" />
     <option name="DEFAULT_ATTRIBUTE" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
