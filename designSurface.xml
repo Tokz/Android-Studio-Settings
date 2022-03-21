@@ -121,10 +121,12 @@
         <entry key="app/src/main/res/layout/include_horizontal_line_separator.xml" value="0.33541666666666664" />
         <entry key="app/src/main/res/layout/include_onboarding_step.xml" value="0.33541666666666664" />
         <entry key="app/src/main/res/layout/include_progress_loader.xml" value="0.240625" />
+        <entry key="app/src/main/res/layout/item_bank.xml" value="0.33541666666666664" />
         <entry key="app/src/main/res/layout/item_colony.xml" value="0.23072916666666668" />
         <entry key="app/src/main/res/layout/item_colony_recomended.xml" value="0.30885416666666665" />
         <entry key="app/src/main/res/layout/item_feed.xml" value="0.15760869565217392" />
         <entry key="app/src/main/res/layout/item_income.xml" value="0.33541666666666664" />
+        <entry key="app/src/main/res/layout/item_income_secondary.xml" value="0.33541666666666664" />
         <entry key="app/src/main/res/layout/item_invoice.xml" value="0.22760416666666666" />
         <entry key="app/src/main/res/layout/item_invoices.xml" value="0.22760416666666666" />
         <entry key="app/src/main/res/layout/item_network_state.xml" value="0.2265625" />
@@ -140,6 +142,7 @@
         <entry key="app/src/main/res/layout/item_notification_pending_colony.xml" value="0.17346014492753623" />
         <entry key="app/src/main/res/layout/item_notification_pending_follow.xml" value="0.17346014492753623" />
         <entry key="app/src/main/res/layout/item_notification_reaction.xml" value="0.29030797101449274" />
+        <entry key="app/src/main/res/layout/item_primary_income.xml" value="0.2292817679558011" />
         <entry key="app/src/main/res/layout/item_stub_my_colonies.xml" value="0.23072916666666668" />
         <entry key="app/src/main/res/layout/item_view_all_button.xml" value="0.23072916666666668" />
         <entry key="app/src/main/res/layout/item_walkthrough_2.xml" value="0.2265625" />
