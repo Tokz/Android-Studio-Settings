@@ -3,7 +3,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../../layout/custom_preview.xml" value="0.13703703703703704" />
-        <entry key="../../../../layout/custom_preview.xml" value="0.24739583333333334" />
+        <entry key="../../../../layout/custom_preview.xml" value="0.3055555555555556" />
         <entry key="android-chat-lib/src/main/res/drawable/bg_color_grey_full_rounded.xml" value="0.18958333333333333" />
         <entry key="android-chat-lib/src/main/res/drawable/bg_color_grey_inactive_50_rounded_all_8dp.xml" value="0.3111111111111111" />
         <entry key="android-chat-lib/src/main/res/drawable/bg_color_primary_full_rounded_all_10dp.xml" value="0.18958333333333333" />
@@ -60,7 +60,7 @@
         <entry key="app/src/main/res/layout/fragment_applicant_details.xml" value="0.33541666666666664" />
         <entry key="app/src/main/res/layout/fragment_approved_account.xml" value="0.14825421856712048" />
         <entry key="app/src/main/res/layout/fragment_auth_verification_code.xml" value="0.29030797101449274" />
-        <entry key="app/src/main/res/layout/fragment_bank_account.xml" value="0.2430939226519337" />
+        <entry key="app/src/main/res/layout/fragment_bank_account.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_change_current_password.xml" value="0.2265625" />
         <entry key="app/src/main/res/layout/fragment_change_email_new_email.xml" value="0.22083333333333333" />
         <entry key="app/src/main/res/layout/fragment_change_email_verify_code.xml" value="0.19583333333333333" />
@@ -76,7 +76,7 @@
         <entry key="app/src/main/res/layout/fragment_forgot_password_verification_code.xml" value="0.38125" />
         <entry key="app/src/main/res/layout/fragment_highlight.xml" value="0.21739130434782608" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.2391304347826087" />
-        <entry key="app/src/main/res/layout/fragment_income.xml" value="0.33541666666666664" />
+        <entry key="app/src/main/res/layout/fragment_income.xml" value="0.26481481481481484" />
         <entry key="app/src/main/res/layout/fragment_input_name.xml" value="0.2265625" />
         <entry key="app/src/main/res/layout/fragment_landing.xml" value="0.21965579710144928" />
         <entry key="app/src/main/res/layout/fragment_loan.xml" value="0.37916666666666665" />
