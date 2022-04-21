@@ -103,7 +103,7 @@
         <entry key="app/src/main/res/layout/fragment_pre_loan_details.xml" value="0.33541666666666664" />
         <entry key="app/src/main/res/layout/fragment_primary_email_password.xml" value="0.19351570415400202" />
         <entry key="app/src/main/res/layout/fragment_primary_phone_verification.xml" value="0.2265625" />
-        <entry key="app/src/main/res/layout/fragment_qr_scannner.xml" value="0.28425925925925927" />
+        <entry key="app/src/main/res/layout/fragment_qr_scannner.xml" value="0.3537037037037037" />
         <entry key="app/src/main/res/layout/fragment_quick_login_setup.xml" value="0.31851851851851853" />
         <entry key="app/src/main/res/layout/fragment_register_verification_code.xml" value="0.2265625" />
         <entry key="app/src/main/res/layout/fragment_repayment_account.xml" value="0.2671875" />
