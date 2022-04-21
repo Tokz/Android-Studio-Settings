@@ -171,6 +171,7 @@
         <entry key="common/src/main/res/drawable-xxxhdpi/image_placeholder.xml" value="0.3101851851851852" />
         <entry key="common/src/main/res/drawable/ic_button_send.xml" value="0.15648148148148147" />
         <entry key="common/src/main/res/drawable/ic_close.xml" value="0.3302564102564103" />
+        <entry key="common/src/main/res/layout/include_top_appbar_main.xml" value="0.2935185185185185" />
         <entry key="common/src/main/res/layout/include_top_appbar_sub.xml" value="0.21422101449275363" />
         <entry key="common/src/main/res/layout/include_top_appbar_sub_centered.xml" value="0.2604166666666667" />
       </map>
